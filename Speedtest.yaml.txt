@@ -1,0 +1,12 @@
+payload:
+# NAME: Speedtest
+# UPDATE: 2020-10-25
+#   - DOMAIN-SUFFIX: 3
+#   - USER-AGENT: 1
+#   - DOMAIN-KEYWORD: 1
+# TOTAL: 5
+#  - USER-AGENT,speedtest*
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-KEYWORD,speedtest

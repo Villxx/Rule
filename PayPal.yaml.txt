@@ -1,0 +1,12 @@
+payload:
+# NAME: PayPal
+# UPDATE: 2020-10-25
+#   - USER-AGENT: 1
+#   - DOMAIN-SUFFIX: 3
+#   - DOMAIN-KEYWORD: 1
+# TOTAL: 5
+#  - USER-AGENT,paypal*
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-KEYWORD,paypal

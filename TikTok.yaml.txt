@@ -1,0 +1,20 @@
+payload:
+# NAME: TikTok
+# UPDATE: 2020-10-25
+#   - USER-AGENT: 1
+#  - PROCESS-NAME: 1
+#   - DOMAIN-SUFFIX: 9
+#   - DOMAIN-KEYWORD: 1
+# TOTAL: 11
+#  - USER-AGENT,tiktok*
+  - PROCESS-NAME,com.ss.android.ugc.trill
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,ipstatp.com
+  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-KEYWORD,-tiktokcdn-com
