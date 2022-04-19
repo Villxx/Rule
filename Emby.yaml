@@ -1,5 +1,5 @@
 payload:
 # NANE: Emby
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
   - DOMAIN-SUFFIX,embyserver.media
