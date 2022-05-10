@@ -1,5 +1,9 @@
 payload:
 # NANE: Emby
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# DOMAIN：2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
   - DOMAIN-SUFFIX,embyserver.media
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN,emby.flowercloud.yt
+  - DOMAIN,emby.misakaf.xyz
