@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,jp
+IP-CIDR,23.46.155.0/24,no-resolve
 IP-CIDR,23.214.112.0/24,no-resolve
 IP-CIDR,52.69.180.0/24,no-resolve
 IP-CIDR,3.35.193.0/24,no-resolve
