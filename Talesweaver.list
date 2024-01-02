@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ne.jp
 DOMAIN-SUFFIX,ebis.ne.jp
 DOMAIN-SUFFIX,ladsp.com
 
+IP-CIDR,1.234.26.0/23,no-resolve
 IP-CIDR,3.35.193.0/23,no-resolve
 IP-CIDR,3.114.139.0/23,no-resolve
 IP-CIDR,13.113.184.0/23,no-resolve
@@ -47,6 +48,7 @@ IP-CIDR,52.194.0.0/16,no-resolve
 IP-CIDR,52.196.140.0/23,no-resolve
 IP-CIDR,52.199.232.0/23,no-resolve
 IP-CIDR,54.65.0.0/16,no-resolve
+# IP-CIDR,54.65.24.0/23,no-resolve
 # IP-CIDR,54.65.85.0/23,no-resolve
 # IP-CIDR,54.65.175.0/23,no-resolve
 IP-CIDR,54.92.10.0/23,no-resolve
@@ -67,6 +69,7 @@ IP-CIDR,54.248.0.0/16,no-resolve
 IP-CIDR,54.249.87.0/16,no-resolve
 # IP-CIDR,54.249.87.0/23,no-resolve
 # IP-CIDR,54.249.167.0/23,no-resolve
+IP-CIDR,57.181.80.0/23,no-resolve
 IP-CIDR,65.9.66.0/23,no-resolve
 IP-CIDR,96.16.55.0/23,no-resolve
 IP-CIDR,104.68.98.0/23,no-resolve
