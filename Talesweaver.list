@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ladsp.com
 IP-CIDR,1.234.26.0/23,no-resolve
 IP-CIDR,3.35.193.0/23,no-resolve
 IP-CIDR,3.114.139.0/23,no-resolve
+IP-CIDR,3.163.125.0/23,no-resolve
 IP-CIDR,13.113.184.0/23,no-resolve
 IP-CIDR,13.115.39.0/23,no-resolve
 IP-CIDR,13.227.74.0/23,no-resolve
@@ -33,11 +34,13 @@ IP-CIDR,18.182.78.0/23,no-resolve
 IP-CIDR,18.238.184.0/23,no-resolve
 IP-CIDR,23.38.233.0/23,no-resolve
 IP-CIDR,23.46.155.0/23,no-resolve
+IP-CIDR,23.56.4.0/23,no-resolve
 IP-CIDR,23.62.0.0/16,no-resolve
 # IP-CIDR,23.62.46.211/32,no-resolve
 # IP-CIDR,23.62.46.216/32,no-resolve
 # IP-CIDR,23.62.46.0/20,no-resolve
 IP-CIDR,23.214.112.0/23,no-resolve
+IP-CIDR,35.75.92.0/23,no-resolve
 IP-CIDR,43.203.52.0/23,no-resolve
 IP-CIDR,52.68.251.0/23,no-resolve
 IP-CIDR,52.69.180.0/23,no-resolve
@@ -46,7 +49,10 @@ IP-CIDR,52.194.0.0/16,no-resolve
 # IP-CIDR,52.194.49.0/23,no-resolve
 # IP-CIDR,52.194.56.0/23,no-resolve
 IP-CIDR,52.196.140.0/23,no-resolve
-IP-CIDR,52.199.232.0/23,no-resolve
+IP-CIDR,52.197.108.0/23,no-resolve
+IP-CIDR,52.199.0.0/16,no-resolve
+# IP-CIDR,52.199.48.0/23,no-resolve
+# IP-CIDR,52.199.232.0/23,no-resolve
 IP-CIDR,54.65.0.0/16,no-resolve
 # IP-CIDR,54.65.24.0/23,no-resolve
 # IP-CIDR,54.65.85.0/23,no-resolve
@@ -102,6 +108,7 @@ IP-CIDR,183.110.0.0/16,no-resolve
 # IP-CIDR,183.110.66.0/23,no-resolve
 IP-CIDR,184.25.56.0/23,no-resolve
 IP-CIDR,203.114.55.0/23,no-resolve
-IP-CIDR,210.152.224.0/20,no-resolve
+IP-CIDR,210.152.224.0/23,no-resolve
+IP-CIDR,211.110.8.0/23,no-resolve
 IP-CIDR,221.168.66.0/23,no-resolve
 IP-CIDR,224.0.0.0/23,no-resolve
