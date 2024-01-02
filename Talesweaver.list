@@ -80,6 +80,7 @@ IP-CIDR,183.79.250.0/23,no-resolve
 IP-CIDR,183.79.255.0/23,no-resolve
 IP-CIDR,183.110.27.0/23,no-resolve
 IP-CIDR,183.110.28.0/23,no-resolve
+IP-CIDR,184.25.56.0/23,no-resolve
 IP-CIDR,203.114.55.0/23,no-resolve
 IP-CIDR,210.152.224.0/20,no-resolve
 IP-CIDR,221.168.66.0/23,no-resolve
