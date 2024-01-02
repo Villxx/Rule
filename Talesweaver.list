@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ladsp.com
 IP-CIDR,1.234.26.0/23,no-resolve
 IP-CIDR,3.35.193.0/23,no-resolve
 IP-CIDR,3.114.139.0/23,no-resolve
+IP-CIDR,3.115.111.0/23,no-resolve
 IP-CIDR,3.163.125.0/23,no-resolve
 IP-CIDR,13.113.184.0/23,no-resolve
 IP-CIDR,13.115.39.0/23,no-resolve
@@ -40,7 +41,11 @@ IP-CIDR,23.62.0.0/16,no-resolve
 # IP-CIDR,23.62.46.216/32,no-resolve
 # IP-CIDR,23.62.46.0/20,no-resolve
 IP-CIDR,23.214.112.0/23,no-resolve
+IP-CIDR,35.72.0.0/16,no-resolve
+# IP-CIDR,35.72.84.0/23,no-resolve
+# IP-CIDR,35.72.154.0/23,no-resolve
 IP-CIDR,35.75.92.0/23,no-resolve
+IP-CIDR,35.76.213.0/23,no-resolve
 IP-CIDR,43.203.52.0/23,no-resolve
 IP-CIDR,52.68.251.0/23,no-resolve
 IP-CIDR,52.69.180.0/23,no-resolve
