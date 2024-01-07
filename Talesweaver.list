@@ -58,7 +58,7 @@ IP-CIDR,52.194.0.0/16,no-resolve
 # IP-CIDR,52.194.48.0/23,no-resolve
 # IP-CIDR,52.194.49.0/23,no-resolve
 # IP-CIDR,52.194.56.0/23,no-resolve
-IP-CIDR,52.196.140.0/23,no-resolve
+IP-CIDR,52.196.0.0/16,no-resolve
 IP-CIDR,52.197.108.0/23,no-resolve
 IP-CIDR,52.199.0.0/16,no-resolve
 # IP-CIDR,52.199.48.0/23,no-resolve
