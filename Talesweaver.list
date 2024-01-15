@@ -34,7 +34,9 @@ IP-CIDR,18.180.0.0/16,no-resolve
 # IP-CIDR,18.180.151.0/23,no-resolve
 # IP-CIDR,18.180.237.0/23,no-resolve
 # IP-CIDR,18.180.237.0/23,no-resolve
-IP-CIDR,18.182.78.0/23,no-resolve
+IP-CIDR,18.182.0.0/16,no-resolve
+# IP-CIDR,18.182.78.0/23,no-resolve
+# IP-CIDR,18.182.226.0/23,no-resolve
 IP-CIDR,18.238.184.0/23,no-resolve
 IP-CIDR,23.38.233.0/23,no-resolve
 IP-CIDR,23.46.155.0/23,no-resolve
