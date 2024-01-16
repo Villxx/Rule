@@ -50,11 +50,12 @@ IP-CIDR,23.192.228.0/20,no-resolve
 IP-CIDR,23.196.152.0/20,no-resolve
 IP-CIDR,23.214.112.0/23,no-resolve
 IP-CIDR,35.72.0.0/16,no-resolve
-IP-CIDR,35.76.0.0/16,no-resolve
 # IP-CIDR,35.72.84.0/23,no-resolve
 # IP-CIDR,35.72.154.0/23,no-resolve
-IP-CIDR,35.75.92.0/23,no-resolve
-IP-CIDR,35.76.213.0/23,no-resolve
+IP-CIDR,35.73.0.0/16,no-resolve
+IP-CIDR,35.75.0.0/16,no-resolve
+IP-CIDR,35.76.0.0/16,no-resolve
+# IP-CIDR,35.76.213.0/23,no-resolve
 IP-CIDR,43.203.52.0/23,no-resolve
 IP-CIDR,52.68.0.0/16,no-resolve
 IP-CIDR,52.69.180.0/23,no-resolve
