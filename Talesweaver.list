@@ -16,6 +16,7 @@ IP-CIDR,3.114.139.0/23,no-resolve
 IP-CIDR,3.115.111.0/23,no-resolve
 IP-CIDR,3.163.125.0/23,no-resolve
 IP-CIDR,13.113.184.0/23,no-resolve
+IP-CIDR,13.114.168.0/23,no-resolve
 IP-CIDR,13.115.39.0/23,no-resolve
 IP-CIDR,13.125.75.0/23,no-resolve
 IP-CIDR,13.227.74.0/23,no-resolve
