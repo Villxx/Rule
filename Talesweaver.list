@@ -60,6 +60,7 @@ IP-CIDR,35.75.0.0/16,no-resolve
 IP-CIDR,35.76.0.0/16,no-resolve
 # IP-CIDR,35.76.213.0/23,no-resolve
 IP-CIDR,43.203.52.0/23,no-resolve
+IP-CIDR,43.206.46.0/23,no-resolve
 IP-CIDR,52.68.0.0/16,no-resolve
 IP-CIDR,52.69.180.0/23,no-resolve
 IP-CIDR,52.192.68.0/23,no-resolve
